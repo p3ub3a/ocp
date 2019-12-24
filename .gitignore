@@ -1,0 +1,6 @@
+*.class
+*.iml
+
+# ignore all hidden files except this file
+.*
+!.gitignore
